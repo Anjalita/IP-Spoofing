@@ -1,5 +1,5 @@
 
-# IP-Spoofing - Cybersecurity Demo
+# IP-Spoofing-Demo
 
 This is a lab demonstration on **IP Spoofing**, a classic network attack technique where the attacker impersonates another IP address to gain unauthorized access or disrupt network communication.
 
