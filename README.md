@@ -84,9 +84,4 @@ You should see output indicating spoofed ICMP packets were sent.
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for full terms.
 
-```
 
----
-
-
-```
